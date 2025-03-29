@@ -996,7 +996,7 @@ jobs:
   - Dead letter queue yönetimi
   - Retry politikaları
   - Message batching
-  - Priority queue desteği
+  - Priority queue desteği 
 
 - **Worker Service Yapısı**:
   - Background service pattern
